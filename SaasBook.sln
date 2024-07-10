@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C108A4C5-C5EA-4F24-8F57-3466A47A9BC1}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodHabits.Database", "GoodHabits.Database\GoodHabits.Database.csproj", "{2453F933-4DFB-441D-A5DB-F23D71548965}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodHabits.HabitsService", "GoodHabits.HabisService\GoodHabits.HabitsService.csproj", "{F20E3643-2031-4742-BF45-BC99599D2EAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodHabits.Client", "GoodHabits.Client\GoodHabits.Client.csproj", "{45A135DE-6514-4619-92E6-199D27A96CB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2453F933-4DFB-441D-A5DB-F23D71548965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2453F933-4DFB-441D-A5DB-F23D71548965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2453F933-4DFB-441D-A5DB-F23D71548965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2453F933-4DFB-441D-A5DB-F23D71548965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20E3643-2031-4742-BF45-BC99599D2EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20E3643-2031-4742-BF45-BC99599D2EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20E3643-2031-4742-BF45-BC99599D2EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20E3643-2031-4742-BF45-BC99599D2EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A135DE-6514-4619-92E6-199D27A96CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A135DE-6514-4619-92E6-199D27A96CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A135DE-6514-4619-92E6-199D27A96CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A135DE-6514-4619-92E6-199D27A96CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0274F76B-5799-4325-8E40-CFFAA5B72D2D}
+	EndGlobalSection
+EndGlobal

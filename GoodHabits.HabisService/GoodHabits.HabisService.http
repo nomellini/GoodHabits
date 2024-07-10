@@ -1,0 +1,6 @@
+@GoodHabits.HabitsService_HostAddress = http://localhost:5098
+
+GET {{GoodHabits.HabitsService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
