@@ -22,3 +22,15 @@ Para visualizar os databases, use o pgAdmin, que subiu junto no docker
 `http://localhost:5050` 
 
 login e senha estão no docker-compose.yml
+
+não esqueca de regitrar o servidor Postgres, para o pgAdmin, ele fica no host "postgresql_database" e não no localhost.
+Add new server.  
+Aba General:  
+Name = Local  
+  
+Aba Connection:
+Host :postgresql_database  
+login e senha no docker-file.   
+Save Password
+
+

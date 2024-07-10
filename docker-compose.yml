@@ -6,7 +6,7 @@ services:
     environment: 
       - POSTGRES_USER=admin
       - POSTGRES_PASSWORD=adminadmin
-      - POSTGRES_DB=SaasBook
+      - POSTGRES_DB=GoodHabits
     ports: 
       - "5432:5432"
     restart: unless-stopped
@@ -17,7 +17,7 @@ services:
   pgadmin:
     image: dpage/pgadmin4
     environment: 
-      - PGADMIN_DEFAULT_EMAIL=fernando@datamace.com.br
+      - PGADMIN_DEFAULT_EMAIL=admin@admin.com
       - PGADMIN_DEFAULT_PASSWORD=adminadmin
     ports: 
       - "5050:80"
