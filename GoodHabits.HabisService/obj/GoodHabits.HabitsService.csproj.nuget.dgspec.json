@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.HabisService\\GoodHabits.HabitsService.csproj": {}
+    "D:\\Projetos\\GoodHabits\\GoodHabits.HabisService\\GoodHabits.HabitsService.csproj": {}
   },
   "projects": {
-    "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Database\\GoodHabits.Database.csproj": {
+    "D:\\Projetos\\GoodHabits\\GoodHabits.Database\\GoodHabits.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Database\\GoodHabits.Database.csproj",
+        "projectUniqueName": "D:\\Projetos\\GoodHabits\\GoodHabits.Database\\GoodHabits.Database.csproj",
         "projectName": "GoodHabits.Database",
-        "projectPath": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Database\\GoodHabits.Database.csproj",
-        "packagesPath": "C:\\Users\\fernando\\.nuget\\packages\\",
-        "outputPath": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Database\\obj\\",
+        "projectPath": "D:\\Projetos\\GoodHabits\\GoodHabits.Database\\GoodHabits.Database.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\GoodHabits\\GoodHabits.Database\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,10 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "E:\\NugetLocal": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.dtm.com.br/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -93,21 +86,17 @@
         }
       }
     },
-    "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.HabisService\\GoodHabits.HabitsService.csproj": {
+    "D:\\Projetos\\GoodHabits\\GoodHabits.HabisService\\GoodHabits.HabitsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.HabisService\\GoodHabits.HabitsService.csproj",
+        "projectUniqueName": "D:\\Projetos\\GoodHabits\\GoodHabits.HabisService\\GoodHabits.HabitsService.csproj",
         "projectName": "GoodHabits.HabitsService",
-        "projectPath": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.HabisService\\GoodHabits.HabitsService.csproj",
-        "packagesPath": "C:\\Users\\fernando\\.nuget\\packages\\",
-        "outputPath": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.HabisService\\obj\\",
+        "projectPath": "D:\\Projetos\\GoodHabits\\GoodHabits.HabisService\\GoodHabits.HabitsService.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\GoodHabits\\GoodHabits.HabisService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,17 +104,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "E:\\NugetLocal": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.dtm.com.br/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Database\\GoodHabits.Database.csproj": {
-                "projectPath": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Database\\GoodHabits.Database.csproj"
+              "D:\\Projetos\\GoodHabits\\GoodHabits.Database\\GoodHabits.Database.csproj": {
+                "projectPath": "D:\\Projetos\\GoodHabits\\GoodHabits.Database\\GoodHabits.Database.csproj"
               }
             }
           }

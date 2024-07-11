@@ -16,11 +16,14 @@ namespace GoodHabits.HabitsService
         public async Task<Habit> Create(string name, string description)
         {
             var habit = _dbContext.Habits!.Add(new Habit { Name = name, Description = description }).Entity;
+            _dbContext.Todos!.Add(new Todo {  TodoItem = name });
             await _dbContext.SaveChangesAsync();
             return habit;
         }
 
         public async Task<IReadOnlyList<Habit>> GetAll() => await _dbContext.Habits!.ToListAsync();
+
+        public async Task<IReadOnlyList<Todo>> GetAllItems() => await _dbContext.Todos!.ToListAsync();
 
         public async Task<Habit> GetById(string Id) => await _dbContext.Habits.FindAsync(Id);
     }

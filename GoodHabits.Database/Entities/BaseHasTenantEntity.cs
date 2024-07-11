@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace GoodHabits.Database.Entities
 {
-    public class Habit : BaseHasTenantEntity
+    public class BaseHasTenantEntity: BaseEntity, IHasTenant
     {
-        public string Name { get; set; } = default!;
-        public string Description { get; set; } = default!;
-        
+        public string TenantName { get; set; } = default!;
     }
 }

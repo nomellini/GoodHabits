@@ -17,7 +17,7 @@ namespace GoodHabits.HabitsService.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAllAsync() => Ok(await _habitService.GetAll());
+        public async Task<IActionResult> GetAllAsync() => Ok(await _habitService.GetAllItems());
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(string Id)

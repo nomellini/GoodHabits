@@ -18,6 +18,11 @@ namespace GoodHabits.Database
                 new Habit { Id = new Guid("4a4399ab-729d-4b08-ba87-7a4e9b179376"), Name = "Learn Saad", Description = "Become a SaaSer", TenantName = "CloudSphere" },
                 new Habit { Id = new Guid("e2aa93c9-b426-4db9-888f-ced925803e1a"), Name = "Learn Multi Tenancy", Description = "Become a master", TenantName = "CloudSphere" }
             );
+
+            modelBuilder.Entity<Todo>().HasData(
+                new Todo { Id = new Guid("426498D7-1A66-4295-8A3E-572CB8A1B3B3"), TodoItem = "Estudar !", TenantName = "CloudSphere" }
+            );
+
         }
     }
 }

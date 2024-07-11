@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Client\\GoodHabits.Client.csproj": {}
+    "D:\\Projetos\\GoodHabits\\GoodHabits.Client\\GoodHabits.Client.csproj": {}
   },
   "projects": {
-    "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Client\\GoodHabits.Client.csproj": {
+    "D:\\Projetos\\GoodHabits\\GoodHabits.Client\\GoodHabits.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Client\\GoodHabits.Client.csproj",
+        "projectUniqueName": "D:\\Projetos\\GoodHabits\\GoodHabits.Client\\GoodHabits.Client.csproj",
         "projectName": "GoodHabits.Client",
-        "projectPath": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Client\\GoodHabits.Client.csproj",
-        "packagesPath": "C:\\Users\\fernando\\.nuget\\packages\\",
-        "outputPath": "E:\\onedrive\\projetos\\Saasbook\\GoodHabits.Client\\obj\\",
+        "projectPath": "D:\\Projetos\\GoodHabits\\GoodHabits.Client\\GoodHabits.Client.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\GoodHabits\\GoodHabits.Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,10 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "E:\\NugetLocal": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.dtm.com.br/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {

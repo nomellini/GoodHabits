@@ -7,6 +7,7 @@ namespace GoodHabits.HabitsService
         Task<Habit> Create(string name, string description);
         Task<Habit> GetById(string Id);
         Task<IReadOnlyList<Habit>> GetAll();
+        Task<IReadOnlyList<Todo>> GetAllItems();
 
     }
 }

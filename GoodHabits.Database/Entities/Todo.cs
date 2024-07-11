@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace GoodHabits.Database.Entities
 {
-    public class Habit : BaseHasTenantEntity
+    public class Todo: BaseHasTenantEntity
     {
-        public string Name { get; set; } = default!;
-        public string Description { get; set; } = default!;
-        
+        public string? TodoItem { get; set; }
     }
+
+  
 }

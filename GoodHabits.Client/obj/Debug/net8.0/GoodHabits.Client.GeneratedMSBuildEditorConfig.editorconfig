@@ -13,39 +13,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = GoodHabits.Client
 build_property.RootNamespace = GoodHabits.Client
-build_property.ProjectDir = E:\onedrive\projetos\Saasbook\GoodHabits.Client\
+build_property.ProjectDir = d:\Projetos\GoodHabits\GoodHabits.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\onedrive\projetos\Saasbook\GoodHabits.Client
+build_property.MSBuildProjectDirectory = d:\Projetos\GoodHabits\GoodHabits.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/onedrive/projetos/Saasbook/GoodHabits.Client/App.razor]
+[d:/Projetos/GoodHabits/GoodHabits.Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/onedrive/projetos/Saasbook/GoodHabits.Client/Pages/Counter.razor]
+[d:/Projetos/GoodHabits/GoodHabits.Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/onedrive/projetos/Saasbook/GoodHabits.Client/Pages/Home.razor]
+[d:/Projetos/GoodHabits/GoodHabits.Client/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/onedrive/projetos/Saasbook/GoodHabits.Client/Pages/Weather.razor]
+[d:/Projetos/GoodHabits/GoodHabits.Client/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/onedrive/projetos/Saasbook/GoodHabits.Client/_Imports.razor]
+[d:/Projetos/GoodHabits/GoodHabits.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/onedrive/projetos/Saasbook/GoodHabits.Client/Layout/MainLayout.razor]
+[d:/Projetos/GoodHabits/GoodHabits.Client/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-m3j4eznszl
 
-[E:/onedrive/projetos/Saasbook/GoodHabits.Client/Layout/NavMenu.razor]
+[d:/Projetos/GoodHabits/GoodHabits.Client/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-n5widr019i
