@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\GoodHabits.HabitsService.props" />
-</Project>
